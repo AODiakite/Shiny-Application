@@ -1,0 +1,13 @@
+name: ShinyApp
+title: ShinyApp
+username:
+account: aodiakite
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5702044
+bundleId: 5602866
+url: https://aodiakite.shinyapps.io/ShinyApp/
+when: 1645464832.40324
+lastSyncTime: 1645464832.40326
+asMultiple: FALSE
+asStatic: FALSE
